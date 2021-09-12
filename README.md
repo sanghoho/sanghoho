@@ -1,6 +1,14 @@
-### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanghoho&count_bg=%2379C83D&title_bg=%23555555&icon=pytorch.svg&icon_color=%2319D597&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<div align=center>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanghoho&count_bg=%2379C83D&title_bg=%23555555&icon=pytorch.svg&icon_color=%2319D597&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+
+[![Sangho's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghoho)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+### Hi there 👋
 
 <!--
 **sanghoho/sanghoho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
