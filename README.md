@@ -17,40 +17,39 @@ I believe and do so using technology, especially ML, to solve everyday problem.
 ## ✨Skills
 
 ### Language
+<div>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-75aadb?style=flat-square&logo=R&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-75aadb?style=flat-square&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&style=flat-square&logoColor=white"/>
-
-
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&style=flat-square&logoColor=white"/>
+</div>
 
 ### Framework or Library
-<img src="https://img.shields.io/badge/Pytorch-ee4c2c?style=flat-square&logo=Pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/pytorch--lightning-792ee5?style=flat-square&logo=pytorch-lightning&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/Pytorch-ee4c2c?style=flat-square&logo=Pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pytorch--lightning-792ee5?style=flat-square&logo=pytorch-lightning&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Fastapi-009688?style=flat-square&logo=Fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastapi-009688?style=flat-square&logo=Fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+</div>
 
 
 
 ### Database
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
