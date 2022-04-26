@@ -21,6 +21,7 @@ I believe and do so using technology, especially ML, to solve everyday problem.
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-75aadb?style=flat-square&logo=R&logoColor=white"/>
 
+  <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
